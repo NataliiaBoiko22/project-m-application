@@ -30,7 +30,9 @@ import {
 })
 export class HttpService {
   // url = 'http://localhost:3000';
-  url = 'https://backend-for-my-project-production.up.railway.app';
+  // url = 'https://backend-for-my-project-production.up.railway.app';
+  url = 'backend-for-my-project-production-ace9.up.railway.app';
+
 
   usersPath = '/users';
 
