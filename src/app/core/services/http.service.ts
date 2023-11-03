@@ -30,9 +30,8 @@ import {
 })
 export class HttpService {
   // url = 'http://localhost:3000';
-  url = 'https://backend-for-pma-production-e400.up.railway.app';
-
-
+   url = 'https://backend-for-pma3.onrender.com';
+ 
   usersPath = '/users';
 
   signUpPath = '/auth/signup';
